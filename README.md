@@ -10,6 +10,8 @@ A lightweight [language server](https://langserver.org/) for PHP.
 * Diagnostics
 * Signature Help
 
+[![PHPLS Demo](docs/phpls-demo.gif)](https://asciinema.org/a/ZhRIW9wimPaZeikpON75E6ZZl)
+
 ## Getting Started
 
 Download the phar from the [releases
